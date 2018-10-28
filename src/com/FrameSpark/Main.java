@@ -16,7 +16,7 @@ public class Main {
     Parser p = new Parser();
 
     Test tester = new Test();
-    boolean testm = true;
+    boolean testm = false;
 
     if (testm == false){
     if(tester.mainTest(data) != 0){
